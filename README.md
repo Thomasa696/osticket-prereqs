@@ -51,7 +51,7 @@ Installation instructions to fininsh off the Osticket install
 - Item 4 ![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/9d0fd407-5be3-4d68-a341-bd7a70306595)
 
 
--Item 5  ![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/d1da3219-f95c-4015-8dae-062526d7081b)
+-Item 5  ![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/96c9f99d-407e-4108-8f18-2d5ddfb008a8)
 
 <p>
 The picture that shows you that you have successfully installed Osticket Congratulations!!!!!
