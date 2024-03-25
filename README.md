@@ -42,12 +42,10 @@ The first step in getting to osticket is going to the remote desktop. This is af
 
 - Item 2  ![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/f3be52ca-373a-4c0e-884f-aac42f7ff7ec)
 
-  Picture of installation procedure for MYSQL5.5.62 which is one of the main steps to the installation of Osticket then there is Heidi SQL to download and create a password, database which will be a new session.
+Picture of installation procedure for MYSQL5.5.62 which is one of the main steps to the installation of Osticket then there is Heidi SQL to download and create a password, database which will be a new session.
 
 - Item 3  ![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/ec868adc-e29a-4ab7-87bd-3ad3b481fe14)
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Installation instructions to fininsh off the Osticket install
 </p>
 <br />
 
