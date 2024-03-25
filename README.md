@@ -51,10 +51,9 @@ Installation instructions to fininsh off the Osticket install
 - Item 4 ![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/9d0fd407-5be3-4d68-a341-bd7a70306595)
 
 
+-Item 5  ![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/d1da3219-f95c-4015-8dae-062526d7081b)
+
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+The picture that shows you that you have successfully installed Osticket Congratulations!!!!!
 </p>
 <br />
