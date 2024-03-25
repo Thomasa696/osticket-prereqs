@@ -34,9 +34,6 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <p>
 ![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/591dcad8-340d-4ca1-8290-1f9ea4733131)
 
- 
-</p>
-<p>
 The first step in getting to osticket is going to the remote desktop. This is after creating a Virtual Machine and a Resource Group. Here is an image of what that looks like once accomplished.
 </p>
 <br />
