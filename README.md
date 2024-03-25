@@ -48,7 +48,7 @@ Picture of installation procedure for MYSQL5.5.62 which is one of the main steps
 
 Installation instructions to fininsh off the Osticket install
 </p>
-<br />![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/9d0fd407-5be3-4d68-a341-bd7a70306595)
+- Item 4 ![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/9d0fd407-5be3-4d68-a341-bd7a70306595)
 
 
 <p>
