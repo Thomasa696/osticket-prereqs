@@ -41,7 +41,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 The first step in getting to osticket is going to the remote desktop. This is after creating a Virtual Machine and a Resource Group. Here is an image of what that looks like once accomplished.
 </p>
-<br />![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/f3be52ca-373a-4c0e-884f-aac42f7ff7ec)
+- Item 2  ![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/f3be52ca-373a-4c0e-884f-aac42f7ff7ec)
 <p>
   Picture of installation procedure for MYSQL5.5.62 which is one of the main steps to the installation of Osticket then there is Heidi SQL to download and create a password, database which will be a new session.
 </p>![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/ec868adc-e29a-4ab7-87bd-3ad3b481fe14)
