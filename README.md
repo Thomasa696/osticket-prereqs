@@ -32,7 +32,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 - Item 4  ![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/30fcb566-1947-49ab-afe1-b5a7d992b0ee)
 
 - Item 5  ![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/b41d757f-95f5-4467-a147-3bd25345b1f7)
- 
+  
 
 <h2>Installation Steps</h2>
 
@@ -43,8 +43,9 @@ The first step in getting to osticket is going to the remote desktop. This is af
 </p>
 <br />![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/f3be52ca-373a-4c0e-884f-aac42f7ff7ec)
 <p>
-   
-</p>
+  Picture of installation procedure for MYSQL5.5.62 which is one of the main steps to the installation of Osticket then there is Heidi SQL to download and create a password, database which will be a new session.
+</p>![image](https://github.com/Thomasa696/osticket-prereqs/assets/164200083/ec868adc-e29a-4ab7-87bd-3ad3b481fe14)
+
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
